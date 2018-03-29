@@ -1,0 +1,6 @@
+C:\Git\STUDENT\STUDENT\bin\Debug\STUDENT.exe.config
+C:\Git\STUDENT\STUDENT\bin\Debug\STUDENT.exe
+C:\Git\STUDENT\STUDENT\bin\Debug\STUDENT.pdb
+C:\Git\STUDENT\STUDENT\obj\Debug\STUDENT.csprojResolveAssemblyReference.cache
+C:\Git\STUDENT\STUDENT\obj\Debug\STUDENT.exe
+C:\Git\STUDENT\STUDENT\obj\Debug\STUDENT.pdb

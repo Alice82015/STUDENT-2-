@@ -10,3 +10,9 @@ D:\Sourcetree\git\Student(2)\STUDENT\STUDENT\obj\Debug\STUDENT.pdb
 D:\Sourcetree\git\Student(2)\STUDENT\STUDENT\bin\Debug\STUDENT.exe
 D:\Sourcetree\git\Student(2)\STUDENT\STUDENT\bin\Debug\STUDENT.pdb
 D:\Sourcetree\git\Student(2)\STUDENT\STUDENT\obj\Debug\STUDENT.csprojResolveAssemblyReference.cache
+C:\Users\w401\Documents\git\STUDENT\STUDENT\STUDENT\bin\Debug\STUDENT.exe.config
+C:\Users\w401\Documents\git\STUDENT\STUDENT\STUDENT\obj\Debug\STUDENT.exe
+C:\Users\w401\Documents\git\STUDENT\STUDENT\STUDENT\obj\Debug\STUDENT.pdb
+C:\Users\w401\Documents\git\STUDENT\STUDENT\STUDENT\bin\Debug\STUDENT.exe
+C:\Users\w401\Documents\git\STUDENT\STUDENT\STUDENT\bin\Debug\STUDENT.pdb
+C:\Users\w401\Documents\git\STUDENT\STUDENT\STUDENT\obj\Debug\STUDENT.csprojResolveAssemblyReference.cache
